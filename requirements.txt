@@ -1,0 +1,5 @@
+gradio
+langchain
+transformers
+sentence-transformers
+chromadb==0.3.29
